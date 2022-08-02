@@ -6,14 +6,14 @@
     "publisher": "Aktarus006",
     "repository": {
       "type": "git",
-      "url": "https://github.com/path/to-repo.git"
+      "url": "https://github.com/Aktarus006/aktarustheme.git"
     },
     "bugs": {
-      "url": "https://github.com/path/to-repo.git",
-      "email": "email@example.com"
+      "url": "https://github.com/Aktarus006/aktarustheme.git",
+      "email": "bastinjoachim@gmail.com"
     },
-    "homepage": "link.com",
-    "icon": "icons/theme-icon.png",
+    "homepage": "https://github.com/Aktarus006/aktarustheme",
+    "icon": "icons/kamigawa.png",
     "galleryBanner": {
       "color": "#FDFDFE",
       "theme": "dark"
@@ -25,17 +25,17 @@
       "Themes"
     ],
     "keywords": [
-      "keyword 1",
-      "keyword 2",
-      "keyword 3",
-      "keyword 4"
+      "color theme",
+      "neon",
+      "pink, purple, green",
+      "Kamigawa Neon Dynasty"
     ],
     "contributes": {
       "themes": [
         {
-          "label": "Your theme name",
+          "label": "Neon Dynasty Theme",
           "uiTheme": "vs-dark",
-          "path": "./themes/your-theme-name.json"
+          "path": "./themes/neon-dynasty-color-theme.json"
         }
       ]
     }
