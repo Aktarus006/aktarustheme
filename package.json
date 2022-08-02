@@ -1,0 +1,21 @@
+{
+    "name": "Neon Dynasty Theme Color",
+    "displayName": "Neon Dynasty",
+    "description": "Kamigawa Neon Dynasty inspiration theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neon Dynasty Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/neon-dynasty-color-theme.json"
+            }
+        ]
+    }
+}
