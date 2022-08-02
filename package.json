@@ -1,21 +1,42 @@
 {
-    "name": "Neon Dynasty Theme Color",
-    "displayName": "Neon Dynasty",
-    "description": "Kamigawa Neon Dynasty inspiration theme",
-    "version": "0.0.1",
+    "name": "neon-dynasty-theme",
+    "displayName": "Neon Dynasty Theme",
+    "description": "Neon Dynasty Theme",
+    "version": "0.00.0",
+    "publisher": "Aktarus006",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/path/to-repo.git"
+    },
+    "bugs": {
+      "url": "https://github.com/path/to-repo.git",
+      "email": "email@example.com"
+    },
+    "homepage": "link.com",
+    "icon": "icons/theme-icon.png",
+    "galleryBanner": {
+      "color": "#FDFDFE",
+      "theme": "dark"
+    },
     "engines": {
-        "vscode": "^1.69.0"
+      "vscode": "^1.69.0"
     },
     "categories": [
-        "Themes"
+      "Themes"
+    ],
+    "keywords": [
+      "keyword 1",
+      "keyword 2",
+      "keyword 3",
+      "keyword 4"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Neon Dynasty Color Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/neon-dynasty-color-theme.json"
-            }
-        ]
+      "themes": [
+        {
+          "label": "Your theme name",
+          "uiTheme": "vs-dark",
+          "path": "./themes/your-theme-name.json"
+        }
+      ]
     }
-}
+  }
