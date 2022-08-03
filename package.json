@@ -2,7 +2,7 @@
     "name": "neon-dynasty-theme",
     "displayName": "Neon Dynasty Theme",
     "description": "Neon Dynasty Theme",
-    "version": "0.00.0",
+    "version": "0.0.1",
     "publisher": "Aktarus006",
     "repository": {
       "type": "git",
@@ -28,7 +28,7 @@
       "color theme",
       "neon",
       "pink, purple, green",
-      "Kamigawa Neon Dynasty"
+      "Neon Dynasty"
     ],
     "contributes": {
       "themes": [
